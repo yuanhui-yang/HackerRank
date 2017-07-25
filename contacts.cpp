@@ -1,5 +1,5 @@
 // Contacts
-// https://www.hackerrank.com/challenges/contacts/
+// https://www.hackerrank.com/challenges/contacts
 
 /*
 We're going to make our own Contacts application! The application must perform two types of operations:
