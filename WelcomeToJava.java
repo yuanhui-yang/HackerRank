@@ -1,4 +1,4 @@
-// WelcomeToJava.java
+// Welcome to Java!
 
 /*
 Welcome to the world of Java! In this challenge, we practice printing to stdout.
